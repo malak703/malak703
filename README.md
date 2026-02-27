@@ -4,7 +4,7 @@ I’m Malak, a CSIT student specializing in Artificial Intelligence and Data Sci
 My main focus areas include:
 
 # 💫 About Me:
-I’m looking to collaborate on<br><br>Open-source AI projects, data analysis tasks, and beginner-friendly web development projects.<br><br>🧠 I’m looking for help with Improving my deep learning projects and learning more about model optimization.<br><br>I’m currently learning<br>Machine Learning, Deep Learning, Data Analysis, and Full-Stack Web Development.<br>Ask me about<br><br>AI, data science, Python, ML model development, or anything tech-related.<br><br>Fun fact<br><br>I love turning ideas into real projects — learning something new every single day!
+I’m looking to collaborate on<br><br>Open-source AI projects, data analysis tasks, and beginner-friendly web development projects.<br><br>🧠 I’m looking for help with Improving my deep learning projects and learning more about model optimization.<br><br>I’m currently learning Machine Learning, Deep Learning, Data Analysis, and Full-Stack Web Development.<br><br>Ask me about<br><br>AI, data science, Python, ML model development, or anything tech-related.<br><br>Fun fact<br><br>I love turning ideas into real projects — learning something new every single day!
 
 
 # 💻 Tech Stack:
